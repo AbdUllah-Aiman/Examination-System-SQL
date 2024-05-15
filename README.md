@@ -1,10 +1,7 @@
 # Examination-System-SQL
 Examination system:
 Instructors can add Exams and view reports while students take exams and view their Grades in the past exams
-I did the Exam page that gets the questions assigned to the student from database and display it with its choices
-On submitting i compare the answer with correct answer and grade the exam then store the degree in Database
-the exam will submit automatically when the time is up
-sweet alert on submitting the exam to let him know how many answered had he answered
+
 Exam page:
 ![20](https://github.com/AbdUllah-Aiman/Examination-System-SQL/assets/156405503/36d48b5b-f255-42fc-8821-d8059d693d23)
 ![26](https://github.com/AbdUllah-Aiman/Examination-System-SQL/assets/156405503/645c54cd-5e61-414f-a0bb-84ba333d4148)
